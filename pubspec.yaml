@@ -44,6 +44,11 @@ flutter:
   assets:
   - images/moheed.jpg
 
+  fonts:
+    - family: Piedra
+      fonts:
+        - asset: fonts/Piedra-Regular.ttf
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
